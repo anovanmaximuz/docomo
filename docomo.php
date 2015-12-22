@@ -1,14 +1,12 @@
 <?php 
 if(session_id() === false) session_start();
 
- 
 require_once 'src/util.php';
 require_once 'src/logging.php';
 require_once 'src/session.php';
 require_once 'src/docomo_base.php';
 
-
-Class Libs_Docomo_Docomo extends Docomo_Base {
+Class Docomo extends Docomo_Base {
 
 	protected $logActive		= true;
 	protected $logWhitelist		= false;
