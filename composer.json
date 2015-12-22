@@ -1,0 +1,22 @@
+{
+    "name": "anovanmaximuz/docomo",
+    "type": "library",
+    "description": "DoCoMo API Library for CMS Enterprise",
+    "keywords": ["social","plugin","cms","linkit360","anovan"],
+    "homepage": "https://github.com/anovanmaximuz/sosmed-cms",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/anovanmaximuz/sosmed-cms/issues"
+    },
+    "authors": [
+        {
+            "name": "Ano Van",
+            "email": "anovanmaximuz@gmail.com",
+            "homepage": "http://anovan.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
